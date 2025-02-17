@@ -54,7 +54,7 @@ public class SecurityConfig {
         return http.build();
     }
 
-	
+	///it commit
 	
     @Bean
     public PasswordEncoder passwordEncode() {
